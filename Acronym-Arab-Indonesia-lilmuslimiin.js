@@ -130,6 +130,22 @@ document.addEventListener('DOMContentLoaded', () => {
 	{ abbreviation: 'وَقَالَ أَبُوْ هُرَيْرَةَ', meaning: 'Sareng sayyidina abu huroiroh parantos nyarios' },
 	{ abbreviation: 'كَانَ رَسُوْلُ اللهِ ﷺ', meaning: 'Buktos Rasulullah' },
 	{ abbreviation: 'قَالَ الْبَغَوِيُّ', meaning: 'Al-Baghowi parantos nyarios' },
+	{ abbreviation: 'حِفْظًا', meaning: 'hafalan' },
+	{ abbreviation: ' تَلْقِيْنًا', meaning: 'dituntun' },
+	{ abbreviation: 'نَظَرًا', meaning: 'melihat' },
+	{ abbreviation: 'فِي الْمُصْحَفِ', meaning: 'pada mushaf' },
+	{ abbreviation: 'وَتَجِبُ', meaning: 'Dan wajib' },
+	{ abbreviation: 'سَوَاءٌ', meaning: 'sama saja' },
+	{ abbreviation: 'سَمِعْتُ', meaning: 'aku mendengar' },
+	{ abbreviation: 'اَلْإِمَامُ', meaning: 'imam' },
+        { abbreviation: 'وَالْمَأْمُوْمُ', meaning: 'dan mamum' },
+	{ abbreviation: 'لِخَبَرِ الصَّحِيْحَيْنِ', meaning: 'Berdasarkan hadits Bukhari dan Muslim' },
+	{ abbreviation: 'فِي الْمَصَابِيْحِ', meaning: 'Didalam kitab Al-masobih' },
+	{ abbreviation: 'وَعَنْ أَبِيْ هُرَيْرَةَ', meaning: 'dan dari abu hurairah' },
+	{ abbreviation: 'عَنِ النَّبِيِّ ﷺ', meaning: 'Dari nabi Muhammad Shallallaahualaihi wasallama' },
+	{ abbreviation: 'قَالَ اللهُ تَعَالَى', meaning: 'Allah subhanahu wataala berfirman' },
+	{ abbreviation: 'قَسَمْتُ الصَّلَاةَ', meaning: 'Aku membagi shalat' },
+	{ abbreviation: 'وَلِعَبْدِيْ', meaning: 'Dan untuk hambaku' },
       ];
       const main = document.querySelector('main');
       let mainHtml = main.innerHTML;
